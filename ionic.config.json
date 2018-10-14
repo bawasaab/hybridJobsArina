@@ -1,0 +1,7 @@
+{
+  "name": "hybridJobsArina",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
