@@ -71,6 +71,11 @@ export class AppComponent {
       icon: 'document'
     },
     {
+      title: 'Email Subscription',
+      url: '/email-subscription',
+      icon: 'paper-plane'
+    },
+    {
       title: 'Contact Us',
       url: '/contact-us',
       icon: 'mail'

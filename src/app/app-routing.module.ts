@@ -22,7 +22,8 @@ const routes: Routes = [
   { path: 'police-jobs', loadChildren: './police-jobs/police-jobs.module#PoliceJobsPageModule' },
   { path: 'about-us', loadChildren: './about-us/about-us.module#AboutUsPageModule' },
   { path: 'privacy-policy', loadChildren: './privacy-policy/privacy-policy.module#PrivacyPolicyPageModule' },
-  { path: 'contact-us', loadChildren: './contact-us/contact-us.module#ContactUsPageModule' }
+  { path: 'contact-us', loadChildren: './contact-us/contact-us.module#ContactUsPageModule' },
+  { path: 'email-subscription', loadChildren: './email-subscription/email-subscription.module#EmailSubscriptionPageModule' }
 ];
 
 @NgModule({
