@@ -14,6 +14,66 @@ export class AppComponent {
       title: 'Home',
       url: '/home',
       icon: 'home'
+    },
+    {
+      title: 'Government Jobs',
+      url: '/latest-govt-jobs',
+      icon: 'megaphone'
+    },
+    {
+      title: 'Jobs In Abroad',
+      url: '/jobs-in-abroad',
+      icon: 'paper-plane'
+    },
+    {
+      title: 'Jobs Closing Soon',
+      url: '/jobs-closing-soon',
+      icon: 'clock'
+    },
+    {
+      title: 'Upcoming Jobs',
+      url: '/upcoming-jobs',
+      icon: 'calendar'
+    },
+    {
+      title: 'Bank Jobs',
+      url: '/bank-jobs',
+      icon: 'list'
+    },
+    {
+      title: 'Clerical Jobs',
+      url: '/clerical-jobs',
+      icon: 'desktop'
+    },
+    {
+      title: 'Defence Jobs',
+      url: '/defence-jobs',
+      icon: 'medal'
+    },
+    {
+      title: 'Police Jobs',
+      url: '/police-jobs',
+      icon: 'ribbon'
+    },
+    {
+      title: 'Railway Jobs',
+      url: '/railway-jobs',
+      icon: 'train'
+    },
+    {
+      title: 'About Us',
+      url: '/about-us',
+      icon: 'information-circle'
+    },
+    {
+      title: 'Privacy Policy',
+      url: '/privacy-policy',
+      icon: 'document'
+    },
+    {
+      title: 'Contact Us',
+      url: '/contact-us',
+      icon: 'mail'
     }
   ];
 
